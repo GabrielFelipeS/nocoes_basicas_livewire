@@ -1,0 +1,1 @@
+components.top-navbar<?php /**PATH /home/aluno/nocoes_basicas_livewire/storage/framework/views/1bec89535f048cbf7b19d134aafd8a39.blade.php ENDPATH**/ ?>
